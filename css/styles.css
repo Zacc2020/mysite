@@ -1,0 +1,162 @@
+h1{
+  font-size:5.625rem;
+margin: 50 auto 0 auto;
+font-family: 'Cutive', serif;
+line-height: 1;
+color:#66bfbf;
+}
+
+h2 {
+  font-size:2.5rem;
+  font-weight: normal;
+  margin-bottom:100;
+  margin-top:150;
+  color:#66bfbf;
+}
+
+
+h3 { color:#66bfbf;
+  font-weight: bold;
+
+}
+.pro {
+  text-decoration: underline;
+font-size: 3.0rem;
+
+}
+
+
+
+body {
+margin: 0;
+text-align: center;
+font-family: 'Kosugi Maru', sans-serif;
+color:#40514e;
+}
+
+p{
+
+  line-height:1.5;
+}
+.introtext{
+
+  width: 31%;
+  margin:auto;
+}
+
+img{
+  border-radius: 100%;
+  width: 100px;
+  height:100px;
+
+}
+
+hr {
+  border-style: none;
+      Border-top-style: dotted;
+      border-color: grey;
+      ;
+      border-width: 5px;
+      width: 5%;
+      margin: 100px auto 100px auto;
+}
+
+a {
+color: #11999e;
+margin:10px 20px;
+text-decoration: none;
+
+}
+
+a:hover {
+  color:#eaf6f6;
+}
+
+
+
+.top-container {
+  background-color: #eaf6f6;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+.webdev{
+  float:left;
+  margin-right: 30px;
+}
+
+
+
+.music{
+  float:right;
+  margin-left:30px;
+  color: #11999e;
+}
+
+
+.myname{
+font-size: 2.5rem;
+
+}
+
+.mountain {
+  width: 1000px;
+  height:600px;
+  margin-bottom: 100px;
+  margin-top: 100px;
+  border-radius: 0;
+}
+
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height:1.5;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 50px;
+  top: 550px;
+  width: 350px;
+  border-radius: 10%;
+}
+.bottom-cloud{
+position: absolute;
+left: 100px;
+bottom: 300px;
+width:500px;
+border-radius: 10%;
+}
+
+
+.closingtext{
+  width:45%;
+  margin:auto;
+  font-weight:bolder;
+  margin-bottom: 30px;
+}
+
+
+.bottom-container{
+  background-color:#66bfbf;
+  margin-top: 25px;
+  font: color #11999e;
+  padding: 50px o 20px;
+  font-family: 'Kosugi Maru', sans-serif;
+
+  }
+
+.footer-link{
+
+}
+
+
+
+  .copyright{
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 20px;
+  }
